@@ -1,4 +1,4 @@
-package com.example.mockito;
+package com.example.mockito.mockitodemo;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

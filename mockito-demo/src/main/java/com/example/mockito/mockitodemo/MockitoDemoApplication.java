@@ -1,4 +1,4 @@
-package com.example.mockito;
+package com.example.mockito.mockitodemo;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
